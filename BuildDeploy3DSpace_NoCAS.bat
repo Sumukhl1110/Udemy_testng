@@ -1,6 +1,6 @@
 @echo off
 setlocal
-2nd commit
+1st commit on branch test_1
 set server=D:\dsplm\products\R2017X\3dspace
 set build=true
 set deploy=true
